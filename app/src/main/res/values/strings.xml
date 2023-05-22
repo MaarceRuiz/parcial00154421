@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="labrador">Labrador</string>
+    <string name="name">Max</string>
+    <string name="peso">3</string>
 </resources>
